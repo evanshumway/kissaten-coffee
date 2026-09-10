@@ -1,0 +1,45 @@
+{
+    "name": "kissaten-coffee",
+    "displayName": "Kissaten Coffee Theme",
+    "description": "A warm, cozy VS Code theme inspired by Japanese kissaten coffee shops.",
+    "version": "0.0.1",
+    "publisher": "evanshumway",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/evanshumway/kissaten-coffee.git"
+    },
+    "bugs": {
+        "url": "https://github.com/evanshumway/kissaten-coffee/issues"
+    },
+    "homepage": "https://github.com/evanshumway/kissaten-coffee",
+    "preview": true,
+    "icon": "assets/icon.png",
+    "engines": {
+        "vscode": "^1.80.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Kissaten Coffee",
+                "uiTheme": "vs-dark",
+                "path": "./themes/kissaten-coffee-color-theme.json"
+            }
+        ]
+    },
+    "galleryBanner": {
+        "color": "#211B18",
+        "theme": "dark"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "coffee",
+        "japanese",
+        "kissaten",
+        "brown",
+        "cozy"
+    ]
+}
