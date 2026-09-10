@@ -2,28 +2,25 @@
 
 A warm, cozy dark theme for Visual Studio Code, inspired by the quiet atmosphere of traditional Japanese kissaten coffee shops.
 
-![Kissaten Coffee](assets/icon.png)
+## Screenshots
 
-## ☕ About
+### HTML
+
+![Kissaten Coffee HTML](assets/html.png)
+
+### CSS
+
+![Kissaten Coffee CSS](assets/css.png)
+
+### JavaScript
+
+![Kissaten Coffee JavaScript](assets/javascript.png)
+
+## About
 
 **Kissaten Coffee** is designed around the feeling of sitting in a quiet Japanese coffee shop with a cup of coffee while working late.
 
 The theme uses deep espresso browns, warm cream text, muted greens, caramel highlights, and subtle terracotta accents to create a comfortable coding environment without being overly bright or distracting.
-
-## Screenshots
-
-*Screenshots coming soon.*
-
-## Color Palette
-
-| Color       | Hex       |
-| ----------- | --------- |
-| Espresso    | `#211B18` |
-| Dark Coffee | `#191513` |
-| Cream       | `#E8DED2` |
-| Caramel     | `#D9A66A` |
-| Matcha      | `#9DAA82` |
-| Terracotta  | `#B98268` |
 
 ## Installation
 
